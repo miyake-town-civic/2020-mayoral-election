@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## 7月12日町長選に向けて
 
-You can use the [editor on GitHub](https://github.com/miyake-town/2020-mayoral-election/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+（この記事は、当初[noteで公開](https://note.com/kwaka1208/n/n03feeb9cf6f3)されていましたが、更新履歴を明確に残すためこちらに移設しました）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+来月、私が住む奈良県磯城郡三宅町で町長選挙が行われます。三宅町は全国で2番目に小さい町、奈良県内では一番小さい町で、ご多分に漏れず高齢化の進む田舎町であります。
 
-### Markdown
+[三宅町webサイト](https://www.town.miyake.lg.jp/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+公職選挙法で、町村議会選挙及び町村長選挙については運動期間が5日間と定められているため、7月12日（日）投開票であれば告示はその5日前7月7日（火）となり、告示から投開票までの運動期間が短く各候補者の政策や考えを知ることが難しい現状があります。
 
-```markdown
-Syntax highlighted code block
+その一方で田舎町にはまだまだ古く悪しきやり方が横行していて、選挙のたびに「怪文書」と呼ばれる立候補者を批判するような文書が飛び交うこともあります。田舎町が「ムラ社会」と呼ばれるひとつの理由かなとも思います。
 
-# Header 1
-## Header 2
-### Header 3
+こんな[前時代的な掲示板](http://bbs.mottoki.com/index?bbs=miyaketyou)でのやりとりもあり、その内容はとてもまともな大人のやりとりとは思えません。
 
-- Bulleted
-- List
+そこで、各候補者の考え、町長選出後の政策などを等しく聴ける機会を作ろうということで、現時点で予定されている各候補者に以下の投げかけを行いました。[こちらがその時のTweet](https://twitter.com/kwaka1208/status/1274142614955061248)です。
 
-1. Numbered
-2. List
+```最初のTweetでは日程を間違っていたので、後のTweetで訂正しています。```
 
-**Bold** and _Italic_ and `Code` text
+この投げかけをTwitterで行い、この記事をnoteで公開しているのはすべてのやり取りを公開の場で行い、透明性を高める意図があります。
 
-[Link](url) and ![Image](src)
-```
+この一連のTweetにも書きましたが、今のご時世、集まって公開討論会をするのもどうかと思いますし、オンラインの方がより多くの方に見ていただけると思いますので、オンラインによるライブ配信として計画することにしました。日本で二番目に小さい町の町長選で新しいことをやる、面白いかなと思っています。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+すでに一部の立候補予定者については賛同のコメントをいただいており、現在具体的な実施内容について企画書を鋭意作成しています。今後の進行については、この記事を更新する形でお伝えしていきます。
 
-### Jekyll Themes
+なお、私自身は将来的に町長選、町議会選ともに立候補の予定はなく、本活動もあくまでも町民のひとりとして実行するものであることを申し添えておきます。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miyake-town/2020-mayoral-election/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+実施内容を以下のスライドで公開しました
 
-### Support or Contact
+以下に、立候補予定者のTwitterアカウントを紹介します（50音順）。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [志野たかし氏](https://twitter.com/fashno)
+- [志野たかみつ氏](https://twitter.com/t_shino_)
+- [森田こうじ氏](https://twitter.com/miyake_cho_cho)
+
+
+```本取り組みに関して公職選挙法上の問題があればご指摘いただけると助かります。本取り組みは「特定の選挙につき特定の候補者または特定の立候補者予定者の当選を目的として、投票を得又は得させるために直接または間接に必要かつ有利な行為をすること」ではないので、いわゆる「選挙運動」ではないという認識です。```
+
+と投げかけたところ、[こちらの資料](www.jaycee.or.jp/2017/summerconference/7/3-2webtouronsinko.pdf)を教えていただきました。
+
+この資料からは、以下の3点がポイントであると理解しました。これらについて留意しながら進めていきます。
+
+1. 告示日前の告知禁止
+2. 選挙当日、翌日以降の掲載内容変更禁止
+3. 電子メールによる告知禁止

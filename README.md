@@ -7,7 +7,8 @@
 
 - 開催日時：2020年7月6日（月）19:00より（2時間程度を予定、進行の都合により変わる場合があります）
 - 開催場所：YouTube Liveによるオンライン開催とします。  
-配信URLは「[https://youtu.be/tpgy76wQxdA](https://youtu.be/tpgy76wQxdA)」になります。
+配信URLは「[https://youtu.be/tpgy76wQxdA](https://youtu.be/tpgy76wQxdA)」になります（現在はアーカイブとして残されています）。  
+[動画内で使ったスライドはこちらです](https://docs.google.com/presentation/d/e/2PACX-1vSNEJW6icTk70C1IaV9g6DbtU6rpv2E2bD-KDLIei0Q2ePYC-L880qezaS7vbdiIN-GpwHIA4S5QWre/pub?start=false&loop=false&delayms=3000)
 - 登壇者　：若林健一（ご連絡は、[Twitter](https://twitter.com/miyake_civic)か[メール](mailto:miyake.town.civic@gmail.com)にお願いします）
 
 当初予定していた公開討論会の開催概要については、[こちらに掲載](https://docs.google.com/presentation/d/1OhLMxr6rgEiJLPmrdBdUeB43UuoHCy9WfCIDvTMWmmQ/edit?usp=sharing)しております。
